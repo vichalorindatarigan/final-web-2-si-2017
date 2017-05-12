@@ -1,0 +1,42 @@
+body{
+	background-image :url(https://s-media-cache-ak0.pinimg.com/originals/ee/4e/82/ee4e824110ab6104c457f606ebd309d7.jpg);
+	width:100%;
+
+}
+
+.jumbo1{
+	margin-bottom: 0;
+ background-color: #0588aa;
+ z-index: 9999;
+ border: 0;
+ font-size: 20px !important;
+  font-family:lobster;
+ line-height: 1.42857143 !important;
+ letter-spacing: 2px;
+ border-radius: 0;
+  color: White !important;
+  padding:-100px 40px 30px 0px;
+  background:rgba(0,0,0,0.4);
+}
+
+.container1{
+	margin-top:5em;
+	
+}
+
+.button1{
+	text-align:center;
+	
+	
+}
+
+.stuff{
+	margin-top:2em;
+	text-align:center;
+
+	padding-left:1em;
+	padding-right:1em;
+}
+.tweet{
+	text-align:center;
+}
